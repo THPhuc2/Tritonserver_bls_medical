@@ -1,9 +1,0 @@
-name:"vllm_model"
-backend: "vllm"
-
-parameters [
-  {
-    key: "stream"
-    value: { string_value: "true" }
-  }
-]
