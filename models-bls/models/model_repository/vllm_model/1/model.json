@@ -1,0 +1,8 @@
+{
+    "model":"/weights/qwen-rag",
+    "disable_log_requests": true,
+    "gpu_memory_utilization": 0.6,
+    "max_model_len": 4096,
+    "enforce_eager": true,
+    "dtype": "float16"
+}
